@@ -1,8 +1,4 @@
-Here's a concise README.md message:
-
----
-
-### FromHearts
+## FromHearts
 If you want to tell someone about a specific matter (your classmate, your boss, your friend,...) but you do not want them to know your identity. Here comes the FromHearts.
 it's a versatile platform built with modern web technologies including HTML, CSS (with Tailwind), and JavaScript (Vue.js). It leverages Firebase for its backend services such as Firestore, Storage, Hosting, Notifications, and Authentication.
 
