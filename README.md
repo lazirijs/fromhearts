@@ -1,4 +1,4 @@
-## FromHearts
+## FromHearts.web.app
 If you want to tell someone about a specific matter (your classmate, your boss, your friend,...) but you do not want them to know your identity. Here comes the FromHearts.
 it's a versatile platform built with modern web technologies including HTML, CSS (with Tailwind), and JavaScript (Vue.js). It leverages Firebase for its backend services such as Firestore, Storage, Hosting, Notifications, and Authentication.
 
@@ -11,6 +11,6 @@ it's a versatile platform built with modern web technologies including HTML, CSS
 
 **unfortunately, I formatted my PC before I push the code on GitHub, i don't know that i can't get the project code from firebase.**
 
-Sign up for an account [here](fromhearts.web.app/login). Let me know your thoughts!
+Sign up for an account at [fromhearts.web.app/login](fromhearts.web.app/login). Let me know your thoughts!
 
 ---
